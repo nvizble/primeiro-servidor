@@ -1,0 +1,28 @@
+{
+  "name": "primeiro-servidor",
+  "version": "1.0.0",
+  "description": "primeiro servidor cubos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvizble/primeiro-servidor.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "express"
+  ],
+  "author": "nvizble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvizble/primeiro-servidor/issues"
+  },
+  "homepage": "https://github.com/nvizble/primeiro-servidor#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
